@@ -2,8 +2,9 @@
 
 # Instructions
 1. Ensure Mouse_metadata.csv and Study_results.csv are in the Resources folder
-2. Run code top to bottom
-3. Analysis of the data can be found in the markdown cell at the top of pymaceuticals.ipynb
+2. Open pymaceuticals.ipynb in Jupyter or VScode
+3. Run code top to bottom
+4. Analysis of the data can be found in the markdown cell at the top of pymaceuticals.ipynb
 
 # Notes
 Used Stack Overflow, and took got advice from Patrick, a fellow student in my class  
